@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Paintings
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 5c402c67f01adab44bdd5effe9589dbf, type: 3}
+    - {fileID: 2800000, guid: d14b4452c7b64bf4ab4f6a50f711d440, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: -6656886919956971229, guid: d14b4452c7b64bf4ab4f6a50f711d440, type: 3}
+  - {fileID: 8445407368117440890, guid: d14b4452c7b64bf4ab4f6a50f711d440, type: 3}
+  - {fileID: 3262598900622702221, guid: 5c402c67f01adab44bdd5effe9589dbf, type: 3}
+  - {fileID: 5750564278734544462, guid: 5c402c67f01adab44bdd5effe9589dbf, type: 3}
+  - {fileID: 2667383833960506325, guid: 5c402c67f01adab44bdd5effe9589dbf, type: 3}
+  - {fileID: 554486082365961892, guid: 5c402c67f01adab44bdd5effe9589dbf, type: 3}
+  - {fileID: 6605454449799800090, guid: 5c402c67f01adab44bdd5effe9589dbf, type: 3}
+  - {fileID: 5267793190381535168, guid: 5c402c67f01adab44bdd5effe9589dbf, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Paintings2_5
+  - Paintings2_1
+  - Paintings1_2
+  - Paintings1_3
+  - Paintings1_0
+  - Paintings1_1
+  - Paintings1_4
+  - Paintings1_5
+  m_Tag: Paintings
+  m_IsVariant: 0
