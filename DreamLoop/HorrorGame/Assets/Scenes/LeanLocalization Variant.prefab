@@ -1,0 +1,272 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &357091047
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 357091048}
+  - component: {fileID: 357091049}
+  m_Layer: 0
+  m_Name: Radio1
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &357091048
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 357091047}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8146594554285936992}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &357091049
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 357091047}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb15fa0e7301ff849bf4d6dcede7c12b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data: 0
+  entries:
+  - Language: English
+    Text: '*Soviet Radio*'
+    Object: {fileID: 0}
+  - Language: Russian
+    Text: "*\u0421\u043E\u0432\u0435\u0442\u0441\u043A\u043E\u0435 \u0420\u0430\u0434\u0438\u043E*"
+    Object: {fileID: 0}
+  - Language: Portuguese
+    Text: "* R\xE1dio Sovi\xE9tica*"
+    Object: {fileID: 0}
+  - Language: Japanese
+    Text: "*\u30BD\u9023\u306E\u30E9\u30B8\u30AA*"
+    Object: {fileID: 0}
+  - Language: Spanish
+    Text: "* Radio sovi\xE9tica*"
+    Object: {fileID: 0}
+  - Language: Korean
+    Text: "*\uC18C\uBE44\uC5D0\uD2B8 \uB77C\uB514\uC624*"
+    Object: {fileID: 0}
+  - Language: French
+    Text: "* Radio sovi\xE9tique*"
+    Object: {fileID: 0}
+--- !u!1 &735846570
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 735846571}
+  - component: {fileID: 735846572}
+  m_Layer: 0
+  m_Name: Hide
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &735846571
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 735846570}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8146594554285936992}
+  m_RootOrder: 11
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &735846572
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 735846570}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb15fa0e7301ff849bf4d6dcede7c12b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data: 0
+  entries:
+  - Language: English
+    Text: Hide
+    Object: {fileID: 0}
+  - Language: Russian
+    Text: "\u041F\u0440\u044F\u0442\u0430\u0442\u044C\u0441\u044F"
+    Object: {fileID: 0}
+  - Language: Portuguese
+    Text: Esconder-se
+    Object: {fileID: 0}
+  - Language: Spanish
+    Text: Esconderse
+    Object: {fileID: 0}
+  - Language: Japanese
+    Text: "\u30D2\u30C7"
+    Object: {fileID: 0}
+  - Language: Korean
+    Text: "\uC228\uAE30\uAE30"
+    Object: {fileID: 0}
+  - Language: German
+    Text: Sich verstecken
+    Object: {fileID: 0}
+  - Language: French
+    Text: Se cacher
+    Object: {fileID: 0}
+--- !u!1 &1017146024
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1017146025}
+  - component: {fileID: 1017146026}
+  m_Layer: 0
+  m_Name: Stop Hiding
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1017146025
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1017146024}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 8146594554285936992}
+  m_RootOrder: 12
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1017146026
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1017146024}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb15fa0e7301ff849bf4d6dcede7c12b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  data: 0
+  entries:
+  - Language: English
+    Text: Stop Hiding
+    Object: {fileID: 0}
+  - Language: Russian
+    Text: "\u041F\u0435\u0440\u0435\u0441\u0442\u0430\u0442\u044C \u043F\u0440\u044F\u0442\u0430\u0442\u044C\u0441\u044F"
+    Object: {fileID: 0}
+  - Language: Portuguese
+    Text: "P\xE1ra De Te Esconder"
+    Object: {fileID: 0}
+  - Language: Spanish
+    Text: Deja De Esconderte
+    Object: {fileID: 0}
+  - Language: Korean
+    Text: "\uC228\uAE30\uAE30 \uC911\uC9C0"
+    Object: {fileID: 0}
+  - Language: French
+    Text: "Arr\xEAtez De Vous Cacher"
+    Object: {fileID: 0}
+  - Language: German
+    Text: "H\xF6r auf dich zu verstecken"
+    Object: {fileID: 0}
+  - Language: Japanese
+    Text: "\u96A0\u308C\u308B\u306E\u3092\u6B62\u3081\u308B"
+    Object: {fileID: 0}
+--- !u!1001 &3364367354443748564
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 6898994410727540148, guid: 093da125738ba8340ad462526aac8182, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6898994410727540148, guid: 093da125738ba8340ad462526aac8182, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6898994410727540148, guid: 093da125738ba8340ad462526aac8182, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6898994410727540148, guid: 093da125738ba8340ad462526aac8182, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6898994410727540148, guid: 093da125738ba8340ad462526aac8182, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6898994410727540148, guid: 093da125738ba8340ad462526aac8182, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6898994410727540148, guid: 093da125738ba8340ad462526aac8182, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6898994410727540148, guid: 093da125738ba8340ad462526aac8182, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6898994410727540148, guid: 093da125738ba8340ad462526aac8182, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6898994410727540148, guid: 093da125738ba8340ad462526aac8182, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6898994410727540148, guid: 093da125738ba8340ad462526aac8182, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6898994410727540149, guid: 093da125738ba8340ad462526aac8182, type: 3}
+      propertyPath: currentLanguage
+      value: Portuguese
+      objectReference: {fileID: 0}
+    - target: {fileID: 6898994410727540170, guid: 093da125738ba8340ad462526aac8182, type: 3}
+      propertyPath: m_Name
+      value: LeanLocalization
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 093da125738ba8340ad462526aac8182, type: 3}
+--- !u!4 &8146594554285936992 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6898994410727540148, guid: 093da125738ba8340ad462526aac8182, type: 3}
+  m_PrefabInstance: {fileID: 3364367354443748564}
+  m_PrefabAsset: {fileID: 0}

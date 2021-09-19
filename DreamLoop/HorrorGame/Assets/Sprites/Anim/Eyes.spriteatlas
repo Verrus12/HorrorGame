@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Eyes
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 621c5375c7991a24ab004aa01264805e, type: 3}
+    - {fileID: 2800000, guid: 6516dcf7d4eedaf4296a7d239e4215d7, type: 3}
+    - {fileID: 2800000, guid: 99e9a493bf2e24f41bb57e7de03dce59, type: 3}
+    - {fileID: 2800000, guid: f414f3758931ca645b6b15bfacd05937, type: 3}
+    - {fileID: 2800000, guid: 8288105871658074c882677158144b3e, type: 3}
+    - {fileID: 2800000, guid: 3f19c34d978aedf4e94f365a7efd31f4, type: 3}
+    - {fileID: 2800000, guid: 762a7875b34448142b2c89ca4150404a, type: 3}
+    - {fileID: 2800000, guid: df0a766bae229a84d905736838259717, type: 3}
+    - {fileID: 2800000, guid: 34328cc15d3571b4781b89ce35377da1, type: 3}
+    - {fileID: 2800000, guid: d6cd350b15a86ff43aff18ad6e90de62, type: 3}
+    - {fileID: 2800000, guid: 9b3cdac46bc492240b5fa089709ad218, type: 3}
+    - {fileID: 2800000, guid: fcc8a84c7d76fb744b007448d9c01d95, type: 3}
+    - {fileID: 2800000, guid: c3e80c186bf5a724f9f588f9be11168d, type: 3}
+    - {fileID: 2800000, guid: 3040f23263ad7484ca3dedc6b558ba4a, type: 3}
+    - {fileID: 2800000, guid: 054ee1161c105a34aa5d7976d57dbbe9, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 34328cc15d3571b4781b89ce35377da1, type: 3}
+  - {fileID: 21300000, guid: 3040f23263ad7484ca3dedc6b558ba4a, type: 3}
+  - {fileID: 21300000, guid: 99e9a493bf2e24f41bb57e7de03dce59, type: 3}
+  - {fileID: 21300000, guid: 9b3cdac46bc492240b5fa089709ad218, type: 3}
+  - {fileID: 21300000, guid: 621c5375c7991a24ab004aa01264805e, type: 3}
+  - {fileID: 21300000, guid: f414f3758931ca645b6b15bfacd05937, type: 3}
+  - {fileID: 21300000, guid: 762a7875b34448142b2c89ca4150404a, type: 3}
+  - {fileID: 21300000, guid: 054ee1161c105a34aa5d7976d57dbbe9, type: 3}
+  - {fileID: 21300000, guid: 6516dcf7d4eedaf4296a7d239e4215d7, type: 3}
+  - {fileID: 21300000, guid: c3e80c186bf5a724f9f588f9be11168d, type: 3}
+  - {fileID: 21300000, guid: 8288105871658074c882677158144b3e, type: 3}
+  - {fileID: 21300000, guid: d6cd350b15a86ff43aff18ad6e90de62, type: 3}
+  - {fileID: 21300000, guid: df0a766bae229a84d905736838259717, type: 3}
+  - {fileID: 21300000, guid: fcc8a84c7d76fb744b007448d9c01d95, type: 3}
+  - {fileID: 21300000, guid: 3f19c34d978aedf4e94f365a7efd31f4, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - RWFa-export9
+  - RWFa-export14
+  - RWFa-export3
+  - RWFa-export11
+  - RWFa-export1
+  - RWFa-export4
+  - RWFa-export7
+  - RWFa-export15
+  - RWFa-export2
+  - RWFa-export13
+  - RWFa-export5
+  - RWFa-export10
+  - RWFa-export8
+  - RWFa-export12
+  - RWFa-export6
+  m_Tag: Eyes
+  m_IsVariant: 0
